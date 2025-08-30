@@ -1,0 +1,2 @@
+# django
+Basic django projects
